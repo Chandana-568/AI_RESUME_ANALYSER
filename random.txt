@@ -1,0 +1,1 @@
+hi have created this file to understand git and github just to see how it internally works and add this file to staging area in the git bash so could understand its internal working 
